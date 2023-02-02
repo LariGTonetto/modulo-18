@@ -67,7 +67,7 @@
           <CSVDataSet Lariclass="TestBeanLari" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
             <stringProp name="delimiter">,</stringProp>
             <stringProp name="fileEncoding"></stringProp>
-            <stringProp name="filename">C:/Users/LariTonetto/Desktop/Jmeter/Testes/TP</stringProp>
+            <stringProp name="filename">C:/Users/LariTonetto/Desktop/Jmeter/Testes/TP.csv</stringProp>
             <boolProp name="ignoreFirstLine">false</boolProp>
             <boolProp name="quotedData">false</boolProp>
             <boolProp name="recycle">true</boolProp>
